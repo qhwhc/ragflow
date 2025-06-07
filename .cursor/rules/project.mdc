@@ -1,10 +1,15 @@
 ---
 description: 
 globs: 
-alwaysApply: true
+alwaysApply: false
 ---
 # 项目
+## 项目说明
 - 本项目为学习项目
 - 尽量不要去修改源码
-- 学习代码都放到最外层的demo文件夹
-- demo代码保持调用原则，不要自己写业务逻辑
+- 学习代码都放到最外层的test文件夹
+- test代码保持调用原则，不要自己写业务逻辑
+- test再按照案例功能单独建立目录
+
+## 重构要求
+- 根据DEMO下的README来获取DEMO
