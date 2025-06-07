@@ -1,0 +1,10 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+# 项目
+- 本项目为学习项目
+- 尽量不要去修改源码
+- 学习代码都放到最外层的demo文件夹
+- demo代码保持调用原则，不要自己写业务逻辑
